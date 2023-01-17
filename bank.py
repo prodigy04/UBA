@@ -159,7 +159,7 @@ class UBA:
             elif inter == '2':
                 print(f"You have successfully sent {Amount} to {Account_Number} {Bank}")
             else:
-                print("Thanks...")
+                print("Thank you for choosing us!!!...")
         else:
             print("Kindly Confirm Again")
         self.More()
