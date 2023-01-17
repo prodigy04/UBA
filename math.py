@@ -57,8 +57,8 @@ elif value =='7':
             z = 1
             for b in range (1, y + 1):
                 z = z * b
-    o = f / (q * z)
-    print(o)
+                o = f / (q * z)
+                print(o)
 else:
     print('Incorrect Answer')
 text = input("Press Y to try again and N to stop:  ")
